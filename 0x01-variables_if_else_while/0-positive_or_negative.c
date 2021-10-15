@@ -1,8 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
-/* betty style doc for function main goes there */
+/*
+* main - main block
+* Get a ramdom number and print the number
+* and if it positive, negative, or zero
+* Return: 0
+*/
 int main(void)
 {
 int n;
