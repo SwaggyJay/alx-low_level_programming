@@ -1,6 +1,6 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
 /*
 * main - main block
 * Get a ramdom number and print the number
