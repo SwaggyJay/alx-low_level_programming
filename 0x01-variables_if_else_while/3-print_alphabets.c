@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <ctype.h>
 /**
 *main - main block
 *Program prints alphabet in lowcase, followed by a new line
