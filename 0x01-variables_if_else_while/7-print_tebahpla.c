@@ -3,7 +3,7 @@
 #include <time.h>
 /**
 * main - main block
-* This program prints the lowercase alphabet in reverse, followed by a new line.
+* This program prints the lowercase alphabet in reverse, followed the new line.
 *Return: 0
 */
 int main(void)
@@ -15,5 +15,5 @@ putchar(ch);
 ch--;
 }
 putchar('\n');
-return(0);
+return (0);
 }
