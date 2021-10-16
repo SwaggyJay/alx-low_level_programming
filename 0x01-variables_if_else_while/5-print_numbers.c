@@ -8,11 +8,14 @@
 */
 int main(void)
 {
-int h=0;
+int h = 0;
 while (h < 10)
 {
 printf("%d", h);
 h++;
 }
-return(0);
+{
+printf("\n")
+}
+return (0);
 }
