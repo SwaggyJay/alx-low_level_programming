@@ -4,7 +4,7 @@
 * write a program tha prints Holberton, followed by a new line.
 * Return: Always (Success)
 */
-int main()
+int main(void)
 {
 char *u = "_putchar";
 while (*u)
