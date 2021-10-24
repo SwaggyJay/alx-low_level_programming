@@ -4,10 +4,10 @@
 *
 *Return: Always 0.
 */
-void print_alphabetx10(void)
+void print_alphabet_x10(void)
 {
 int i;
-int k
+int k;
 for (k = 1; k<= 10; k++)
 {
 for (i = 'a'; i <= 'z'; i++)
