@@ -10,7 +10,7 @@ char *u = "_putchar";
 while (*u)
 {
 _putchar(*u);
-*u++;
+u++;
 }
 _putchar('\n');
 return(0);
